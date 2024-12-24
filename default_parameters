@@ -1,0 +1,4 @@
+def greet(name,ending="thanks"):
+    print("Good Day "+name)
+    print(ending)
+greet("fatima")
